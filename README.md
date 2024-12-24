@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🤔 I’m looking for help with Pokémon Modding
+- 📫 How to reach me: elchicoeevee on discord or Twitter
+- 😄 Pronouns: He/Him
+
+![eevee](https://github.com/user-attachments/assets/d95297fa-dc31-4a38-8e83-c7dbf92ded0c)
+
 
 <!--
 **ChicoEevee/ChicoEevee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
